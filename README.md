@@ -32,9 +32,6 @@ Implementação de algoritmos de ordenação em C.
 
 ### **Desenvolvimento Front-End para Web**
 
-**• Bebidas Imaginárias**  
-Site responsivo de cardápio com mapa interativo usando HTML, CSS e Bootstrap.
-
 **• Materialize**  
 Template com efeito parallax seguindo padrões de Material Design.
 
@@ -64,9 +61,9 @@ Cada disciplina possui sua própria pasta com projetos, exercícios e evidência
 
 ## 🧰 Stack Tecnológica
 
-**Backend:** C  
+**Algoritmos e Pensamento Computacional:** C  
 **Frontend:** HTML5, CSS3, JavaScript  
-**Banco de Dados:** PostgreSQL (pgAdmin 4)  
+**Modelagem de Banco de Dados:** PostgreSQL (pgAdmin 4)  
 **Frameworks:** Bootstrap, Materialize  
 **Ferramentas:** Git, VS Code, pgAdmin 4, Dev-C++
 
