@@ -33,7 +33,7 @@ Programa que:
 
 ---
 
-### 🔹 3. Calculadora Científica 2.0 (36 Funções)
+### 🔹 3. Calculadora Científica e Calculadora Científica 2.0 (36 Funções)
 Calculadora completa desenvolvida em C, contendo:
 
 - 33 funções matemáticas
@@ -91,3 +91,4 @@ struct Metricas {
     long trocas;
     double tempo_ms;
 };
+
