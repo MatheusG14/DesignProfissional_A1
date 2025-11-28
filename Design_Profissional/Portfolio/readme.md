@@ -16,14 +16,6 @@ Sou um grande entusiasta de tecnologia e gosto muito de me aprofundar em soluç�
   <img alt="Git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/> 
 </p>
 
-<p align="left">
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML-95%25-blue?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS-85%25-blue?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-80%25-yellow?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-75%25-blue?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img alt="Git" src="https://img.shields.io/badge/Git-80%25-red?style=for-the-badge&logo=git&logoColor=white"/>
-</p>
-
 ---
 
 ## 📊 Estatisticas do GitHub 
@@ -54,3 +46,4 @@ Sou um grande entusiasta de tecnologia e gosto muito de me aprofundar em soluç�
 ---
 
 Sempre em busca de novos desafios, aprendizado contínuo e oportunidades para criar soluções digitais de impacto.
+
